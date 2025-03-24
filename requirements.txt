@@ -1,1 +1,6 @@
+pandas
+panel
+hvplot
+os
+
 
